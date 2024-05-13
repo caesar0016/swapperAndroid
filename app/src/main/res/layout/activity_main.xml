@@ -15,7 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="15dp"
-        android:text="Task Performance Dapiton"
+        android:text="Hands-On Activity Dapiton"
         android:textSize="20dp"
         android:textStyle="bold" />
 
